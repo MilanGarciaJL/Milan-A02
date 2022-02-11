@@ -26,7 +26,7 @@ def create_roof(shape):
         shape.left(120)
     shape.end_fill()
 
-
+#lol
 def create_main_house(shape):
     '''
     Creates the main house rectangle
