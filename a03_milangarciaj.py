@@ -28,6 +28,7 @@ def create_roof(shape):
 
 #lol
 #lol 2
+#2
 def create_main_house(shape):
     '''
     Creates the main house rectangle
